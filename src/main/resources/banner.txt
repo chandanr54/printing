@@ -1,0 +1,15 @@
+===============================
+${AnsiColor.CYAN}
+      _ ____   ___  ____
+     | / ___| / _ \|  _ \
+  _  | \___ \| | | | |_) |
+ | |_| |___) | |_| |  __/
+  \___/|____/ \___/|_|
+${AnsiColor.GREEN}
+Jan Sewa Online Printing
+springboot version: ${spring-boot.version}
+${AnsiColor.DEFAULT}
+
+==========================
+
+
