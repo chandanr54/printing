@@ -1,0 +1,9 @@
+#spring.application.name=printing
+
+spring:
+  application:
+    name: Printing
+
+server:
+  port: 8081
+  
